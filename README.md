@@ -30,14 +30,14 @@
 
 *(all with varying levels of decent/rusty-ness haha)*
 
-### Frontend
+### Frontend 👈👈
 - Angular
 - Next
 - Vue
 - React
 - Qwik
 
-### Backend
+### Backend ⛏️🕳️
 - Nestjs (js/ts)
 - Springboot (Java)
 - dotNet (C#)
@@ -45,16 +45,16 @@
 - Flask (Python)
 - C++
 
-### Database
+### Database 📚
 - MySQL
 - PostgreSQL
 
-### Mobile
+### Mobile 📱
 - Flutter (Dart)
 - Android (Java/Kotlin)
 - iOS (Swift)
 
-### Game Dev
+### Game Dev 🎮
 - Unity3D (C#)
 - Godot (GDScript)
 
