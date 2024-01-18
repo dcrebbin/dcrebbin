@@ -6,6 +6,34 @@
 - Professional full stack developer in the Australian govt for the last 5 years
 - First app developed in 2012 (was absolutely terrible lmao)
 - Highschool dropout
+
+## My Favourite Open Source Projects
+
+- **Meta Glasses GPT Vision API** - https://github.com/dcrebbin/meta-vision-api
+
+    Very hacky implementation to allow the meta smart glasses to integrate with GPT Vision. The example allows you to automatically log food. Went *semi semi* viral on hacker news 
+
+    **Demo:** https://www.youtube.com/watch?v=PiEDrcLCmew
+
+ - **AI Interview Trainer**
+
+    *Frontend:* https://github.com/dcrebbin/ai-interview-trainer-frontend
+    
+    *Backend:* https://github.com/dcrebbin/ai-interview-trainer-backend
+
+    Full stack platform that allows a user to have a technical or non technical interview with an AI interviewer that's trained on the prospective company's hiring process 
+    
+    **Demo:** https://www.youtube.com/watch?v=ef2ivitjiBU
+
+- **AI Audiobooks** - https://github.com/dcrebbin/ai-audiobooks
+
+    Python scripts to generate an audiobook based off of text input
+
+ - **Youtube to GPT** - https://github.com/dcrebbin/youtube-channel-to-gpt
+
+    Python scripts to retrieve and collate transcripts from a Youtube Channel to create a custom GPT based off of that channel
+
+
 ## Current Side Projects
 
 - **Ourland ❤️💛🖤** - [itsourland.org.au](https://itsourland.org.au/)
