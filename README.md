@@ -17,7 +17,9 @@
 
 - **Ourland ❤️💛🖤** - [itsourland.org.au](https://itsourland.org.au/)
 
-    Indigenous Corporation & Non Profit Charity to provide an educational resource for people to learn about Australian Indigenous land, languages & place names.
+    [Indigenous Corporation](https://register.oric.gov.au/PrintCorporationSearch.aspx?corporationName=ourland) & Non Profit Charity (status in-progress) to provide an educational resource for people to learn about Australian Indigenous land, languages & place names.
+    
+    With an overarching goal of empowering Indigenous and Torres Strait Islander people by enabling greater access to their culture through data sovereignty
 
 - **langpal 👋** - [withlangpal.com (closed beta)](https://www.withlangpal.com/)
     
