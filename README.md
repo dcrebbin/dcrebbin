@@ -1,38 +1,17 @@
-# Howdy 🤠
 
-## I'm Devon
-- Developer & Graphic Designer of many random projects (fullstack web, cross platform mobile, game dev, etc)
-- Indigenous Australian (Gangalidda, Garawa & Waanyi) <sup>(british too)</sup>
-- Professional full stack developer in the Australian govt for the last 5 years
-- First app developed in 2012 (was absolutely terrible lmao)
+# Howdy I'm Devon 🤠
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dcrebb.in)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devon-crebbin/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devon@artvuu.group)
+[![Youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](mailto:devon@artvuu.group)
+
+![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/devon_c)
+
+- Developer & Graphic Designer of many random projects (fullstack, cross platform mobile, game dev, etc)
+- Indigenous Australian (Gangalidda, Garawa & Waanyi) <sup>(bri'tish too)</sup>
+- Full stack developer with 5 YOE in the Australian govt
+- First app developed in 2012 (For Windows Phone & was terrible lmao, graphic design using paint)
 - Highschool dropout
-
-## My Favourite Open Source Projects
-
-- **Meta Glasses GPT Vision API** - https://github.com/dcrebbin/meta-vision-api
-
-    Very hacky implementation to allow the meta smart glasses to integrate with GPT Vision. The example allows you to automatically log food. Went *semi semi* viral on hacker news 
-
-    **Demo:** https://www.youtube.com/watch?v=PiEDrcLCmew
-
- - **AI Interview Trainer**
-
-    *Frontend:* https://github.com/dcrebbin/ai-interview-trainer-frontend
-    
-    *Backend:* https://github.com/dcrebbin/ai-interview-trainer-backend
-
-    Full stack platform that allows a user to have a technical or non technical interview with an AI interviewer that's trained on the prospective company's hiring process 
-    
-    **Demo:** https://www.youtube.com/watch?v=ef2ivitjiBU
-
-- **AI Audiobooks** - https://github.com/dcrebbin/ai-audiobooks
-
-    Python scripts to generate an audiobook based off of text input
-
- - **Youtube to GPT** - https://github.com/dcrebbin/youtube-channel-to-gpt
-
-    Python scripts to retrieve and collate transcripts from a Youtube Channel to create a custom GPT based off of that channel
-
 
 ## Current Side Projects
 
@@ -42,64 +21,22 @@
 
 - **langpal 👋** - [withlangpal.com (closed beta)](https://www.withlangpal.com/)
     
-    Language phrase book for learning character based languages, with a strong focus on Cantonese
+    Language phrase book for Cantonese
 
-- **Up it APS 📈** - [upitaps.com (closed alpha)](https://www.upitaps.com.au/)
+- **Up It Quest! 📈** - [upitaps.com (closed alpha)](https://www.upit.quest)
 
-    AI powered interview trainer for the Australian Public Service (this has been largely open sourced)
+    Open source AI powered interview trainer for technical interview up* skilling 
 
 - **Random Open Source Stuff 🌍** - [(refer to this trello)](https://trello.com/b/6sFAveoP/dcrebbin-open-source)
-
-    ### Prototype Purgatory 🎮📱
-
-    https://play.google.com/store/apps/developer?id=Prototype+Purgatory
-
-    A bunch of game development prototypes I've done since 2015. Inspired to release them all by this video by **No Boiler Plate** - [The Cult of Done](https://www.youtube.com/watch?v=bJQj1uKtnus)
-
-    Be wary, they all have various levels of completion and "fun-ness" so it's kind of like a raffle
-
-    Development, Graphic Design & Audio all done by me unless specified (i.e: Maze Flow's music)
-
-    ![Alt text](/assets/prototype-purgatory.png)
 
 ### Arbitrary Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=dcrebbin&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
-## Technologies
-
-*(all with varying levels of decent/rusty-ness haha)*
-
-### Frontend 👈👈
-- Angular
-- Next
-- Vue
-- React
-- Qwik
-
-### Backend ⛏️🕳️
-- Nestjs (js/ts)
-- Springboot (Java)
-- dotNet (C#)
-- Go Fiber (Go)
-- Flask (Python)
-- C++
-
-### Database 📚
-- MySQL
-- PostgreSQL
-
-### Mobile 📱
-- Flutter (Dart)
-- Android (Java/Kotlin)
-- iOS (Swift)
-
-### Game Dev 🎮
-- Unity3D (C#)
-- Godot (GDScript)
-
 <hr>
 
-*Not really looking for a job per say but like having a chat about tech*
+*Not really actively looking for a job per say but like having a chat about tech*
 
 #### [Contact Here](mailto:devon@artvuu.group)
+
+*(ha, get it?)
