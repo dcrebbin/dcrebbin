@@ -23,15 +23,11 @@
     
     Language phrase book for Cantonese
 
-- **Up It Quest! 📈** - [upitaps.com (closed alpha)](https://www.upit.quest)
+- **Up It Quest! 📈** - [upit.quest (closed alpha)](https://www.upit.quest)
 
     Open source AI powered interview trainer for technical interview up* skilling 
 
 - **Random Open Source Stuff 🌍** - [(refer to this trello)](https://trello.com/b/6sFAveoP/dcrebbin-open-source)
-
-### Arbitrary Stats
-
-![](https://github-readme-stats.vercel.app/api?username=dcrebbin&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 <hr>
 
