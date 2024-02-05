@@ -10,8 +10,6 @@
 - Developer & Graphic Designer of many random projects (fullstack, cross platform mobile, game dev, etc)
 - Indigenous Australian (Gangalidda, Garawa & Waanyi) <sup>(bri'tish too)</sup>
 - Full stack developer with 5 YOE in the Australian govt
-- First app developed in 2012 (For Windows Phone & was terrible lmao, graphic design using paint)
-- Highschool dropout
 
 ## Current Side Projects
 
@@ -25,16 +23,12 @@
     
     Language phrase book for Cantonese
 
-- **Up It Quest! 📈** - [upit.quest (closed alpha)](https://www.upit.quest)
+- **Up It Quest! 📈** - [upit.quest](https://www.upit.quest)
 
-    Open source AI powered interview trainer for technical interview up* skilling 
+    Open source AI powered interview trainer for leetcode/DSA coaching using your personal OpenAi API key!
 
 - **Random Open Source Stuff 🌍** - [(refer to this trello)](https://trello.com/b/6sFAveoP/dcrebbin-open-source)
 
 <hr>
 
-*Not really actively looking for a job per say but like having a chat about tech*
-
 #### [Contact Here](mailto:devon@artvuu.group)
-
-*(ha, get it?)
