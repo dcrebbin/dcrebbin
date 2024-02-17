@@ -13,7 +13,7 @@
 
 ## Current Side Projects
 
-- **Ourland ❤️💛🖤** - [itsourland.org.au](https://itsourland.org.au/)
+- **Ourland ❤️💛🖤** - [land.org.au](https://itsourland.org.au/)
 
     [Indigenous Corporation](https://register.oric.gov.au/PrintCorporationSearch.aspx?corporationName=ourland) & Non Profit Charity (status in-progress) to provide an educational resource for people to learn about Australian Indigenous land, languages & place names.
     
@@ -21,7 +21,7 @@
 
 - **langpal 👋** - [withlangpal.com (closed beta)](https://www.withlangpal.com/)
     
-    Language phrase book for Cantonese
+    Language phrase book for Cantonese & Mandarin
 
 - **Up It Quest! 📈** - [upit.quest](https://www.upit.quest)
 
