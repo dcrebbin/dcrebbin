@@ -9,7 +9,6 @@
 
 - Developer & Graphic Designer of many random projects (fullstack, cross platform mobile, game dev, etc)
 - Indigenous Australian (Gangalidda, Garawa & Waanyi) <sup>(bri'tish too)</sup>
-- Full stack developer with 5 YOE in the Australian govt
 
 ## Current Side Projects
 
