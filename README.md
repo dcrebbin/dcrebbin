@@ -15,16 +15,18 @@
 - **Ourland ❤️💛🖤** - [land.org.au](https://itsourland.org.au/)
 
     [Indigenous Corporation](https://register.oric.gov.au/PrintCorporationSearch.aspx?corporationName=ourland) & Non Profit Charity (status in-progress) to provide an educational resource for people to learn about Australian Indigenous land, languages & place names.
-    
-    With an overarching goal of empowering Indigenous and Torres Strait Islander people by enabling greater access to their culture through data sovereignty
+
+- **AIOR** - [aior.app](https://aior.app/)
+
+    AI orchestrated research tool to generate datasets. Create an autonomous research team, add your research topic, update your expected data model, enter any user-selected data, and research away!
+
+    Created for the sole purpose of efficiently researching Indigenous languages & data for Ourland but can be used for many other use cases (competition market analysis, supermarket pricing comparisons, capybara density analysis, etc)
+
+    [AIOR YC S24 Demo Video](https://www.youtube.com/watch?v=sfRIqFPEytg)
 
 - **langpal 👋** - [withlangpal.com (closed beta)](https://www.withlangpal.com/)
     
     Language phrase book for Cantonese & Mandarin
-
-- **Up It Quest! 📈** - [upit.quest](https://www.upit.quest)
-
-    Open source AI powered interview trainer for leetcode/DSA coaching using your personal OpenAi API key!
 
 - **Random Open Source Stuff 🌍** - [(refer to this trello)](https://trello.com/b/6sFAveoP/dcrebbin-open-source)
 
