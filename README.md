@@ -22,7 +22,7 @@
 
     Created for the sole purpose of efficiently researching Indigenous languages & data for Ourland but can be used for many other use cases (competition market analysis, supermarket pricing comparisons, capybara density analysis, etc)
 
-    [AIOR YC S24 Demo Video](https://www.youtube.com/watch?v=sfRIqFPEytg)
+    [AIOR YC S24 Demo Video](https://www.youtube.com/watch?v=FgFXpV4-jvc)
 
 - **langpal 👋** - [withlangpal.com (closed beta)](https://www.withlangpal.com/)
     
