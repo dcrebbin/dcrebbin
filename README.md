@@ -7,7 +7,7 @@
 
 ![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/devon_c)
 
-- Developer & Graphic Designer of many random projects (fullstack, cross platform mobile, game dev, etc)
+- Developer & Graphic Designer of many random projects (full-stack, cross platform mobile, game dev, etc)
 - Indigenous Australian (Gangalidda, Garawa & Waanyi) <sup>(bri'tish too)</sup>
 
 ## Current Side Projects
@@ -22,14 +22,14 @@
 
     Created for the sole purpose of efficiently researching Indigenous languages & data for Ourland but can be used for many other use cases (competition market analysis, supermarket pricing comparisons, capybara density analysis, etc)
 
-    [AIOR YC S24 Demo Video](https://www.youtube.com/watch?v=FgFXpV4-jvc)
+    [AIOR YC S24 Demo Video (not accepted)](https://www.youtube.com/watch?v=FgFXpV4-jvc)
 
 - **langpal 👋** - [withlangpal.com (closed beta)](https://www.withlangpal.com/)
     
-    Language phrase book for Cantonese & Mandarin
+    Language phrasebook for Cantonese & Mandarin
 
 - **Random Open Source Stuff 🌍** - [(refer to this trello)](https://trello.com/b/6sFAveoP/dcrebbin-open-source)
 
 <hr>
 
-#### [Contact Here](mailto:devon@artvuu.group)
+#### [Contact Here](mailto:devon@land.org.au)
