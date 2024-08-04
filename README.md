@@ -7,28 +7,18 @@
 
 ![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/devon_c)
 
-- Developer & Graphic Designer of many random projects (full-stack, cross platform mobile, game dev, etc)
+- Developer & Graphic Designer of many random projects
 - Indigenous Australian (Gangalidda, Garawa & Waanyi) <sup>(bri'tish too)</sup>
 
-## Current Side Projects
+## Main Projects
 
 - **Ourland ❤️💛🖤** - [land.org.au](https://land.org.au/)
 
-    [Indigenous Corporation](https://register.oric.gov.au/PrintCorporationSearch.aspx?corporationName=ourland) & Non Profit Charity (status in-progress) to provide an educational resource for people to learn about Australian Indigenous land, languages & place names.
-
-- **AIOR** - [aior.app](https://aior.app/)
-
-    AI orchestrated research tool to generate datasets. Create an autonomous research team, add your research topic, update your expected data model, enter any user-selected data, and research away!
-
-    Created for the sole purpose of efficiently researching Indigenous languages & data for Ourland but can be used for many other use cases (competition market analysis, supermarket pricing comparisons, capybara density analysis, etc)
-
-    [AIOR YC S24 Demo Video (not accepted)](https://www.youtube.com/watch?v=FgFXpV4-jvc)
+    [Indigenous Corporation](https://register.oric.gov.au/PrintCorporationSearch.aspx?corporationName=ourland) & Non Profit Charity (status in-progress) to help prevent the extinction of Australian Indigenous languages & culture
 
 - **langpal 👋** - [withlangpal.com (closed beta)](https://www.withlangpal.com/)
     
     Language phrasebook for Cantonese & Mandarin
-
-- **Random Open Source Stuff 🌍** - [(refer to this trello)](https://trello.com/b/6sFAveoP/dcrebbin-open-source)
 
 <hr>
 
