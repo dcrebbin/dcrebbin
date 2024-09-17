@@ -5,8 +5,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devon@artvuu.group)
 [![Youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNSVBipVk4ocQrcXCixxGtA)
 
-![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/devon_c)
-
 - Developer & Graphic Designer of many random projects
 - Indigenous Australian (Gangalidda, Garawa & Waanyi) <sup>(bri'tish too)</sup>
 
@@ -16,9 +14,11 @@
 
     [Indigenous Corporation](https://register.oric.gov.au/PrintCorporationSearch.aspx?corporationName=ourland) & Non Profit Charity (status in-progress) to help prevent the extinction of Australian Indigenous languages & culture
 
-- **langpal 👋** - [withlangpal.com (closed beta)](https://www.withlangpal.com/)
+- **langpal 👋** - [langpal.com.hk (closed beta)](https://langpal.com.hk/)
     
-    Language phrasebook for Cantonese & Mandarin
+    - [Language phrasebook for Cantonese & Mandarin](https://langpal.com.hk/)
+    - [Jyutping or Pinyin subtitles for YouTube](https://langpal.com.hk/subtitles)
+    - [Cantonese & Mandarin game for mobile (Hanzi Quest)](https://langpal.com.hk/hanzi-quest)
 
 <hr>
 
