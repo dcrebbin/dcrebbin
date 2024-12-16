@@ -12,7 +12,7 @@
 
 - **Ourland ❤️💛🖤** - [land.org.au](https://land.org.au/)
 
-    [Indigenous Corporation](https://register.oric.gov.au/PrintCorporationSearch.aspx?corporationName=ourland) & Non Profit Charity (status in-progress) to help prevent the extinction of Australian Indigenous languages & culture
+    [Indigenous Corporation](https://register.oric.gov.au/PrintCorporationSearch.aspx?corporationName=ourland) & Australian Non Profit to help prevent the extinction of Australian Indigenous languages & culture
 
 - **Langpal话朋** - [langpal.com.hk (closed beta)](https://langpal.com.hk/)
     
