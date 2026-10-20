@@ -1,7 +1,7 @@
 
 # Howdy I'm Devon 🤠
 [![Portfolio](https://img.shields.io/badge/website-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black)](https://devonquest.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devon-crebbin/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devoncrebbin/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devon@land.org.au)
 [![Youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNSVBipVk4ocQrcXCixxGtA)
 
